@@ -440,7 +440,7 @@ a:hover, a:active, a:focus {
 -----------------------------------------*/
 
 #experience .experience-img {
-  background: url('../images/experience-img.jpg') no-repeat;
+  background: url('../images/education-img.jpg') no-repeat;
 }
 
 #experience .media-heading {
@@ -466,7 +466,7 @@ a:hover, a:active, a:focus {
 }
 
 #education .education-img {
-  background: url('../images/education-img.jpg') no-repeat;
+  background: url('../images/cert.png') no-repeat;
 }
 
 #education .media-heading {
@@ -485,8 +485,9 @@ a:hover, a:active, a:focus {
 
 
 
+
 /*---------------------------------------
-   Quotes section              
+  Quotes section              
 -----------------------------------------*/
 
 #quotes {
@@ -495,7 +496,7 @@ a:hover, a:active, a:focus {
     background-position: center center;
     color: #ffffff;
     position: relative;
-    padding: 1%;
+    padding: 1% 0px;
 }
 
 #quotes .overlay {
